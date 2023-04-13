@@ -173,7 +173,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](https://drive.google.com/file/d/1_ZTIuXJh_QxKhR0EM9bT5JgTrUJlmeM3/view?usp=share_link)
     
 
 
