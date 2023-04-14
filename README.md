@@ -44,7 +44,7 @@ We introduced some external data to aid in our exploratory analysis and identify
 
 
 
-## P2: *Salesforce* 
+## P2: *Salesforce* <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img align="right" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> <img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> 
 
 In our MSBA program we partnered with Salesforce to work on a project for them.
 
