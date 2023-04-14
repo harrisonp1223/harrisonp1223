@@ -2,7 +2,7 @@
 
 ## About
 
-<a href="https://www.linkedin.com/in/harrison-pearce%22%3E"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/harrisonleepearce"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 I'm currently a student at Cal Poly SLO studying my Master's of Science in Business Analytics. I'm searching for a role as a Data Analyst, Business Analyst, Financial Analyst, or Data Scientist. I've taken part in multiple analytical & industry collaborated projects that are outlined below. Additionally, my technical skills and familiarity with programming platforms is listed. 
 
