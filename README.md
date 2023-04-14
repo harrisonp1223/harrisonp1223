@@ -29,8 +29,7 @@ I'm currently a student at Cal Poly SLO studying my Master's of Science in Busin
 * Microsoft Word
 * PowerPoint
 
- <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" /> 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)}" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
