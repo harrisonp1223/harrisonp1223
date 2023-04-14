@@ -23,7 +23,7 @@ I'm currently a student at Cal Poly SLO studying my Master's of Science in Busin
 
 # **Projects**
 
-## P1: *Snapchat*
+## P1: *Snapchat*  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 In my Cloud Computing class in my MSBA program our professor collaborated with Snapchat and received some pre-Covid data for us to forecast with. Our data encompassed a multi-year time period up until mid-March 2020, consisting of user engagement metrics. Our data was collected for Snapchat users in the Nordic countries.
 
