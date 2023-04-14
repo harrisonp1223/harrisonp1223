@@ -1,4 +1,9 @@
-# **Portfolio**
+<h1 align="center">
+  <a href="https://git.io/typing-svg%22%3E
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Portfolio&center=true&size=25&color=0077b5%22%3E
+  </a>
+</h1>
+
 
 ## About
 
