@@ -55,7 +55,7 @@ As a group we tackled this issue using Python and R to collect data, clean it, w
 Unfortunately, I'm unable to share the final deliverables because they involve confidential Salesforce data & information. 
 
 
-## P3: *AT&T*
+## P3: *AT&T* <img align="right" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 For our final quarter of the MSBA program, we partnered with AT&T to work on a project involving analysis of macroeconomic trend segmentation and geographic customer behaviors. 
 
@@ -67,7 +67,7 @@ Again, unforunately I'm unable to share our exact processes and code because the
 
 
 
-## P4: *Housing Market Analysis*
+## P4: *Housing Market Analysis*  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img align="right" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 
 The project aims to investigate how employee migration resulting from remote work affects housing market prices. The project's hypothesis stated that an increase or decrease in county residents due to relocation from different counties would result in a corresponding increase or decrease in county median housing prices. California county data was chosen for the project due to its familiarity and abundance of data. 
 
@@ -77,7 +77,7 @@ In the project we used correlation plots to analyze the relationship between the
 
 The code and resulting graphics can be viewed on my Github repository "Housing Market Analysis". 
 
-## P5: *Congressional District Analysis*
+## P5: *Congressional District Analysis*  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img align="right" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 
 This project aimed to answer two questions: Are Democrats or Republicans better investors? And did Democrats or Republicans receive more COVID unemployment funding? The null hypotheses for both questions were that Democrats and Republicans, on average, are equally profitable investors and received an equal amount of unemployment funding during COVID. The project collected data from the census on household incomes for every congressional district in each state, and the dataset from the Internal Revenue Service included variables such as gross income, total income, taxed income, number of returns, amounts of returns, and many other variables.
 
