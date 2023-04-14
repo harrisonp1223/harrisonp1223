@@ -5,7 +5,7 @@
 I'm currently a student at Cal Poly SLO studying my Master's of Science in Business Analytics. I'm searching for a role as a Data Analyst, Business Analyst, Financial Analyst, or Data Scientist. I've taken part in multiple analytical & industry collaborated projects that are outlined below. Additionally, my technical skills and familiarity with programming platforms is listed. 
 
 ## Technical Skills
-
+<p align='center'>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -19,7 +19,7 @@ I'm currently a student at Cal Poly SLO studying my Master's of Science in Busin
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-
+</p>
 # **Projects**
 
 ## P1: *Snapchat*
