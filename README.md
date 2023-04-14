@@ -12,9 +12,7 @@ I'm currently a student at Cal Poly SLO studying my Master's of Science in Busin
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-           
+   
 * SQL
 * Python
 * R
@@ -30,7 +28,7 @@ I'm currently a student at Cal Poly SLO studying my Master's of Science in Busin
 * PowerPoint
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="{BadgeURLHere}" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
