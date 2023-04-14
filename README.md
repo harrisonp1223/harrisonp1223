@@ -20,6 +20,7 @@ I'm currently a student at Cal Poly SLO studying my Master's of Science in Busin
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
+
 # **Projects**
 
 ## P1: *Snapchat*
