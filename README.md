@@ -36,11 +36,11 @@ In my Cloud Computing class in my MSBA program our professor collaborated with S
 
 Our task was to forecast Q1 2020 average user engagement and a range for Q2 2020 average user engagement. 
 
-Unfortunately I cannot disclose the exact code I used on the project considering that it used confidential Snapchat data. 
+Unfortunately, I cannot disclose the exact code I used on the project considering that it used confidential Snapchat data. 
 
 To overview our process, we cleaned the provided data then created a training set. We used the fbprophet package in Python to create our forecasting model. In our model we treated the two weeks of lockdown affected data as a holiday, and then added seasonality effects for pre-Covid and post-Covid as well. We used this method for both predictions. 
 
-We introduced some external data to aid in our exploratory analysis and identify potential trends in our forecasting model. We found relevant data on Netflix monthly user engagment in Denmark and commented on the apparent increases in user engagment post_Covid. To further aid our exploratory analysis, we evaluated daily power consumption data in Norway to consider a measure for daily electronic use - possibly correlated with mobile Snapchat usage. 
+We introduced some external data to aid in our exploratory analysis and identify potential trends in our forecasting model. We found relevant data on Netflix monthly user engagement in Denmark and commented on the apparent increases in user engagment post_Covid. To further aid our exploratory analysis, we evaluated daily power consumption data in Norway to consider a measure for daily electronic use - possibly correlated with mobile Snapchat usage. 
 
 
 
@@ -59,7 +59,7 @@ Unfortunately, I'm unable to share the final deliverables because they involve c
 
 For our final quarter of the MSBA program, we partnered with AT&T to work on a project involving analysis of macroeconomic trend segmentation and geographic customer behaviors. 
 
-Our task is to develop geographic segments that are differentiated by how macroaeconomic trends impact customer and purchasing behaviors. Additionally, we'll need to compare the segments against each other at the national level, and accounting for population changes. Using this analysis, we'll then apply it to recommend optimal strategies for AT&T to promote products and services for their subcribers (using target marketing essentially) and to aid AT&T in retaining their current customers. 
+Our task is to develop geographic segments that are differentiated by how macroeconomic trends impact customer and purchasing behaviors. Additionally, we'll need to compare the segments against each other at the national level, and accounting for population changes. Using this analysis, we'll then apply it to recommend optimal strategies for AT&T to promote products and services for their subcribers (using target marketing essentially) and to aid AT&T in retaining their current customers. 
 
 Our data from AT&T was provided through AWS services and we will be working with the data within EC2 instances. We will use Python and R to achieve the tasks outlined above. 
 
