@@ -40,7 +40,7 @@ Unfortunately, I cannot disclose the exact code I used on the project considerin
 
 To overview our process, we cleaned the provided data then created a training set. We used the fbprophet package in Python to create our forecasting model. In our model we treated the two weeks of lockdown affected data as a holiday, and then added seasonality effects for pre-Covid and post-Covid as well. We used this method for both predictions. 
 
-We introduced some external data to aid in our exploratory analysis and identify potential trends in our forecasting model. We found relevant data on Netflix monthly user engagement in Denmark and commented on the apparent increases in user engagment post_Covid. To further aid our exploratory analysis, we evaluated daily power consumption data in Norway to consider a measure for daily electronic use - possibly correlated with mobile Snapchat usage. 
+We introduced some external data to aid in our exploratory analysis and identify potential trends in our forecasting model. We found relevant data on Netflix monthly user engagement in Denmark and commented on the apparent increases in user engagement post-Covid. To further aid our exploratory analysis, we evaluated daily power consumption data in Norway to consider a measure for daily electronic use - possibly correlated with mobile Snapchat usage. 
 
 
 
