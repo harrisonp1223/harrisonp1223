@@ -50,7 +50,7 @@ In our MSBA program we partnered with Salesforce to work on a project for them.
 
 Salesforce tasked us, a group of four MS Business Analytics students to solve this problem: They have hired many employees during covid that are scattered across the country, not necessarily near their 10 Salesforce headquarters. Our job was to build an analytical tool that takes an input of employee locations and recommend the optimal headquarters location for that group of employees to congregate at in terms of travel cost and travel time (Salesforce pays for the employees' travel costs and time). 
 
-As a group we tackled this issue using Python and R to collect data, clean it, wrange it, and summarize it. In addition, we used Tableau to create visualizations and to be used as a dashboard for Salesforce to interact with (Tableau being the end user tool with inputs and an output recommendation). Additionally we used Dijkstra's Algorithm to find the optimal Salesforce Headquarters locations for employees to congregate at.  
+As a group we tackled this issue using Python and R to collect data, clean it, wrangle it, and summarize it. In addition, we used Tableau to create visualizations and to be used as a dashboard for Salesforce to interact with (Tableau being the end user tool with inputs and an output recommendation). Additionally, we used Dijkstra's Algorithm to find the optimal Salesforce Headquarters locations for employees to congregate at.  
 
 Unfortunately, I'm unable to share the final deliverables because they involve confidential Salesforce data & information. 
 
@@ -59,11 +59,11 @@ Unfortunately, I'm unable to share the final deliverables because they involve c
 
 For our final quarter of the MSBA program, we partnered with AT&T to work on a project involving analysis of macroeconomic trend segmentation and geographic customer behaviors. 
 
-Our task is to develop geographic segments that are differentiated by how macroeconomic trends impact customer and purchasing behaviors. Additionally, we'll need to compare the segments against each other at the national level, and accounting for population changes. Using this analysis, we'll then apply it to recommend optimal strategies for AT&T to promote products and services for their subcribers (using target marketing essentially) and to aid AT&T in retaining their current customers. 
+Our task is to develop geographic segments that are differentiated by how macroeconomic trends impact customer and purchasing behaviors. Additionally, we'll need to compare the segments against each other at the national level, and accounting for population changes. Using this analysis, we'll then apply it to recommend optimal strategies for AT&T to promote products and services for their subscribers (using target marketing essentially) and to aid AT&T in retaining their current customers. 
 
 Our data from AT&T was provided through AWS services and we will be working with the data within EC2 instances. We will use Python and R to achieve the tasks outlined above. 
 
-Again, unforunately I'm unable to share our exact processes and code because they involve confidential AT&T data & information. 
+Again, unfortunately I'm unable to share our exact processes and code because they involve confidential AT&T data & information. 
 
 
 
