@@ -61,7 +61,7 @@ Unfortunately, I'm unable to share the final deliverables because they involve c
 
 For our final quarter of the MSBA program, we partnered with AT&T to work on a project involving analysis of macroeconomic trend segmentation and geographic customer behaviors. 
 
-Our task is to develop geographic segments that are differentiated by how macroeconomic trends impact customer and purchasing behaviors. Additionally, we'll need to compare the segments against each other at the national level, and accounting for population changes. Using this analysis, we'll then apply it to recommend optimal strategies for AT&T to promote products and services for their subscribers (using target marketing essentially) and to aid AT&T in retaining their current customers. 
+Our task is to develop geographic segments that are differentiated by how macroeconomic trends impact customer and purchasing behaviors. Additionally, we'll need to compare the segments against each other at the national level, and account for population changes. Using this analysis, we'll then apply it to recommend optimal strategies for AT&T to promote products and services for their subscribers (using target marketing essentially) and to aid AT&T in retaining their current customers. 
 
 Our data from AT&T was provided through AWS services and we will be working with the data within EC2 instances. We will use Python and R to achieve the tasks outlined above. 
 
