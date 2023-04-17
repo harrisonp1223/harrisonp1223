@@ -65,7 +65,7 @@ Our task is to develop geographic segments that are differentiated by how macroe
 
 Our data from AT&T was provided through AWS services and we will be working with the data within EC2 instances. We will use Python and R to achieve the tasks outlined above. 
 
-Again, unfortunately I'm unable to share our exact processes and code because they involve confidential AT&T data & information. 
+Again, unfortunately I'm unable to share our exact processes, code, and resulting deliverables because they involve confidential AT&T data & information. 
 
 
 
