@@ -42,7 +42,9 @@ To overview our process, we cleaned the provided data then created a training se
 
 We introduced some external data to aid in our exploratory analysis and identify potential trends in our forecasting model. We found relevant data on Netflix monthly user engagement in Denmark and commented on the apparent increases in user engagement post-Covid. To further aid our exploratory analysis, we evaluated daily power consumption data in Norway to consider a measure for daily electronic use - possibly correlated with mobile Snapchat usage. 
 
-
+Ultimately, our Q1 2020 estimate was off by only 0.0811%
+The middle point of our Q2 2020 range was off by only 0.57%
+Our range included the actual Q2 2020 daily user engagement value 
 
 ## P2: *Salesforce* <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img align="right" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> <img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> <img align="right" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
