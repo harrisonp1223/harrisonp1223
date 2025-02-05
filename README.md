@@ -9,7 +9,7 @@
 
 <a href="https://www.linkedin.com/in/harrisonleepearce"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-I'm currently a student at Cal Poly SLO studying my Master of Science in Business Analytics. I'm searching for a role as a Data Analyst, Business Analyst, Financial Analyst, or Data Scientist. I've taken part in multiple analytical & industry collaborated projects that are outlined below. Additionally, my technical skills and familiarity with programming platforms is listed. 
+I'm currently an Investment Analyst at the City of San Jose Office of Retirement Services. I've worked as an Investment Analyst for over a year and a half, after graduating from Cal Poly SLO with an MS in Business Analytics. I'm interested in roles as an Equity Investment Analyst, Fixed Income Analyst, Investment Analyst, & Portfolio Management. I've taken part in multiple analytical & industry collaborated projects that are outlined below as a part of my Master's Degree. Additionally, my technical skills and familiarity with programming platforms is listed. 
 
 ## Technical Skills
 <p align='center'>
